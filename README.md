@@ -13,7 +13,7 @@ The course mainly follows the lecture notes and discussions in class, while the 
 PH4207/
 │
 ├── Assignment/
-│   ├── Solution/
+│   ├── Solution
 │   │   ├── Problem_Set_1_2026.pdf
 │   │   ├── Problem_set_3_2026-1.pdf
 │   │   └── ProbSet2_2026 (1).pdf
@@ -48,7 +48,7 @@ PH4207/
 ## References
 
 - Class lecture notes
-- *Lecture Notes for Physics 229: Quantum Information and Computation* — John Preskill
+- [Lecture Notes for Physics 229: Quantum Information and Computation — John Preskill](https://www.preskill.caltech.edu/ph229/)
 - *Quantum Computation And Quantum Information* - Nielsen Chuang
 - *Quantum Computing Notes* - Ronald Wolf
 
@@ -67,6 +67,5 @@ http://intranet.iiserkol.ac.in/wiki/Library:Home
 ## Disclaimer
 
 This repository is intended only for educational and academic purposes.  
-The materials are shared to help studying Quantum Information Processing and related topics.
-
+The materials are shared to help studying Quantum Information Processing.
 ---
