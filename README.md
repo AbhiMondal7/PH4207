@@ -1,7 +1,7 @@
 # PH4207 — Quantum Information Processing
 
 Hi! 👋  
-This repository contains my course materials for **PH4207 — Quantum Information Processing (QIP)**. I tried to organise the assignments, notes, extra reading materials, and Preskill notes that were useful during the course.
+This repository contains my course materials for **PH4207 — Quantum Information Processing (QIP)**. I tried to organise the assignments, handwritten notes, extra reading materials, and Preskill notes that were useful during the course.
 
 The course mainly follows the lecture notes and discussions in class, while the Preskill notes and Nielsen Chuang are very helpful for deeper conceptual understanding ✨.
 
@@ -48,6 +48,7 @@ PH4207/
 ## References
 
 - Class lecture notes
+- Notes from the NPTEL Course by Sir: [Video Lecture](https://nptel.ac.in/courses/115106925), [Notes](https://drive.google.com/drive/folders/1d6ysibZVBBLxI_xKESSRl5QARZfXbwUm?usp=drive_link)
 - [Lecture Notes for Physics 229: Quantum Information and Computation — John Preskill](https://www.preskill.caltech.edu/ph229/)
 - *Quantum Computation And Quantum Information* - Nielsen Chuang
 - *Quantum Computing Notes* - Ronald Wolf
