@@ -67,6 +67,7 @@ http://intranet.iiserkol.ac.in/wiki/Library:Home
 
 ## Disclaimer
 
-This repository is intended only for educational and academic purposes.  
+This repository is intended only for educational and academic purposes. 
 The materials are shared to help studying Quantum Information Processing.
+
 ---
